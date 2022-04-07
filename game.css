@@ -1,0 +1,14 @@
+#output
+{
+    background-color: #FFFDD0;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+body
+{
+    background-color: aqua;
+}
